@@ -71,6 +71,18 @@ const products = [
     rating: 0,
     numReviews: 0,
   },
+  {
+    name: "N95 Masks",
+    image: "/images/masks.jpeg",
+    description:
+      "N95 masks are one of the best masks that is great for preventing virus. Instead of replacing a new mask per 4 hours, each N95 mask can be used for 7 days with the highest performance.",
+    brand: "3M",
+    category: "Essentials",
+    price: 2.99,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
 ];
 
 export default products;

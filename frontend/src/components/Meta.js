@@ -12,9 +12,9 @@ const Meta = ({ title, description, keywords }) => {
 };
 
 Meta.defaultProps = {
-  title: "EStore based in San Francisco, CA",
-  description: "We sell electronics online",
-  keywords: "electronics, tech",
+  title: "EStore - E for Essential",
+  description: "We sell essential items electronically.",
+  keywords: "essentials, tech, ecommerce",
 };
 
 export default Meta;
